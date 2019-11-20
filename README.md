@@ -1,48 +1,37 @@
-# simplest
+## Welcome to GitHub Pages
 
-Simple Jekyll theme
+You can use the [editor on GitHub](https://github.com/TheModernDesktop/TheModernDesktop.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Markdown
 
-> :warning:
-  This theme requires ruby and rubygems installed
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-* [x] Clean layout
-* [x] Resposive layout
-* [x] Preprocessor SASS
-* [x] HTML minified
-* [x] CSS minified
-* [x] No Javascript
-* [x] Pagination
-* [x] Syntax highlight
-* [x] Author config
-* [x] Comments with Disqus
-* [x] Share posts
+```markdown
+Syntax highlighted code block
 
----
+# Header 1
+## Header 2
+### Header 3
 
-### Start in 4 steps
+- Bulleted
+- List
 
-1. Download or clone repo `git clone git@github.com:nandomoreirame/simplest.git`
-2. Enter the folder: `cd simplest/`
-3. Install Ruby gems: `bundle install`
-4. Start Jekyll server: `jekyll serve`
+1. Numbered
+2. List
 
-Access, [localhost:4000/simplest](http://localhost:4000/simplest)
+**Bold** and _Italic_ and `Code` text
 
----
+[Link](url) and ![Image](src)
+```
 
-### Demo and Download
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[Demo](https://nandomoreirame.github.io/simplest/)
-[Download](https://github.com/nandomoreirame/simplest/archive/master.zip)
+### Jekyll Themes
 
-![simplest - free Jekyll theme](/screenshot.png)
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheModernDesktop/TheModernDesktop.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
----
+### Support or Contact
 
-### Copyright and license
-
-It is under [the MIT license](/LICENSE).
-
-Enjoy :yum:
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
